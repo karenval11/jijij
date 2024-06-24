@@ -1,0 +1,29 @@
+.container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .red:hover {
+    background-color: yellow;
+  }
+  
+  .blue:hover {
+    background-color: yellow;
+  }
+  
+  .green:hover {
+    background-color: yellow;
+  }
